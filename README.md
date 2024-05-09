@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I think i am rude since i work in MEAN.**
 
+  <br><br>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
