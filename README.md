@@ -1,42 +1,82 @@
-<h1 align="center">Hi 👋, I'm Muskan Agarwal</h1>
-<h3 align="center">A Not so "MEAN" Developer.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Top companpy's client projects**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A6B&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-- 🌱 I’m currently learning **Agile Methodologies**
+# Muskan Agarwal
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+**AI Engineer · Frontend Developer · Enterprise SaaS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsmuskanagarwal](https://github.com/itsmuskanagarwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmuskanagarwal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muskanagarwal)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@developerwhoismean)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agarwal.muskan4444@gmail.com)
 
-- 📝 I regularly write articles on [https://medium.com/@developerwhoismean](https://medium.com/@developerwhoismean)
+</div>
 
-- 💬 Ask me about **Angular, NodeJS, ExpressJS, MongoDB, RestfulAPI, NestJS, Typescript, Javascript, Jira, Git, Azure**
+---
 
-- 📫 How to reach me **agarwal.muskan4444@gmail.com**
+### About me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MRWYFWn3KitVNnPg-hPwF-OlmEhgN8TY/view?usp=drive_link](https://drive.google.com/file/d/1MRWYFWn3KitVNnPg-hPwF-OlmEhgN8TY/view?usp=drive_link)
+Software Engineer at **PrismHR** (US-based HR SaaS), building enterprise Angular applications and AI-powered developer tooling — fully remote, async across US–India time zones.
 
-- ⚡ Fun fact **I think i am rude since i work in MEAN.**
+I independently designed and deployed **3 production AI agents** using the Claude and OpenAI APIs that improved team sprint throughput by **20–30%**. I care about writing clean, maintainable code and about making AI actually useful inside real engineering workflows — not just demos.
 
-  <br><br>
+- 🏢 &nbsp; Currently at **PrismHR** — Enterprise HR & Workforce SaaS
+- 🤖 &nbsp; Built production multi-agent LLM pipelines (Claude, OpenAI, Gemini, Groq)
+- ⚡ &nbsp; Eliminated ~50% legacy dead code in 3–4 sprints via AI-assisted audits
+- 🎓 &nbsp; MCA in AI & Data Science · **2× Gold Medalist**, Poornima University
+- 🌏 &nbsp; Remote-first · Jaipur, India
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muskan agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan agarwal" height="30" width="40" /></a>
-<a href="https://medium.com/@developerwhoismean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@developerwhoismean" height="30" width="40" /></a>
-</p>
+### What I'm working on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> &nbsp; &nbsp;<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+| Project | Stack | Description |
+|---|---|---|
+| **AI Developer Agents** | Claude API · OpenAI · Angular | 3 production agents: Dev, Code Reviewer, QA Analyst — live in enterprise codebase |
+| **how-to-talk-corporate** | Next.js · Gemini · Groq · Plasmo | Multi-agent pipeline that rewrites workplace messages for tone — deployed on Vercel |
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmuskanagarwal&show_icons=true&locale=en&layout=compact" alt="itsmuskanagarwal" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmuskanagarwal&show_icons=true&locale=en" alt="itsmuskanagarwal" /></p>
+### Tech I use
+
+**Frontend**
+`Angular` `TypeScript` `JavaScript (ES6+)` `RxJS` `NgRx` `HTML5` `CSS3` `SCSS` `Bootstrap`
+
+**AI & Agents**
+`Claude API` `OpenAI API` `Gemini API` `Groq` `LangChain` `Prompt Engineering` `Agentic Workflows`
+
+**Backend & APIs**
+`Node.js` `NestJS` `Express.js` `REST APIs` `GraphQL` `WebSockets` `.NET`
+
+**Cloud & DevOps**
+`Azure` `Docker` `CI/CD` `GitHub` `Webpack`
+
+**Databases**
+`MongoDB` `MySQL` `SQL`
+
+---
+
+### Certifications
+
+🔵 &nbsp; **Microsoft Azure AI Fundamentals** (AI-900)
+🔵 &nbsp; **Microsoft Azure Fundamentals** (AZ-900)
+🔵 &nbsp; **Microsoft Power Platform Fundamentals**
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muskanagarwal&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskanagarwal&show_icons=true&locale=en&theme=default&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to remote roles in AI engineering, frontend development, and enterprise SaaS · <a href="mailto:agarwal.muskan4444@gmail.com">Get in touch</a></sub>
+</div>
