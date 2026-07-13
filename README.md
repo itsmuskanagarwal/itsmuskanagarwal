@@ -19,11 +19,11 @@
 
 Software Engineer at **PrismHR** (US-based HR SaaS), building enterprise Angular applications and AI-powered developer tooling — fully remote, async across US–India time zones.
 
-I independently designed and deployed **3 production AI agents** using the Claude and OpenAI APIs that improved team sprint throughput by **20–30%**. I care about writing clean, maintainable code and about making AI actually useful inside real engineering workflows — not just demos.
+I've independently designed and deployed **3 production AI agents** using the Claude and OpenAI APIs for clients and companies I've worked with, improving team sprint throughput by **20–30%**. I care about writing clean, maintainable code and about making AI actually useful inside real engineering workflows — not just demos.
 
 - 🏢 &nbsp; Currently at **PrismHR** — Enterprise HR & Workforce SaaS
-- 🤖 &nbsp; Built production multi-agent LLM pipelines (Claude, OpenAI, Gemini, Groq)
-- ⚡ &nbsp; Eliminated ~50% legacy dead code in 3–4 sprints via AI-assisted audits
+- 🤖 &nbsp; Built production multi-agent LLM pipelines (Claude, OpenAI, Gemini, Groq) for clients and companies I've worked with
+- ⚡ &nbsp; Eliminated ~50% legacy dead code in 3–4 sprints via AI-assisted audits for a client engagement
 - 🎓 &nbsp; MCA in AI & Data Science · **2× Gold Medalist**, Poornima University
 - 🌏 &nbsp; Remote-first · Jaipur, India
 
@@ -33,7 +33,7 @@ I independently designed and deployed **3 production AI agents** using the Claud
 
 | Project | Stack | Description |
 |---|---|---|
-| **AI Developer Agents** | Claude API · OpenAI · Angular | 3 production agents: Dev, Code Reviewer, QA Analyst — live in enterprise codebase |
+| **AI Developer Agents** | Claude API · OpenAI · Angular | 3 production agents: Dev, Code Reviewer, QA Analyst — built for a client's enterprise codebase |
 | **how-to-talk-corporate** | Next.js · Gemini · Groq · Plasmo | Multi-agent pipeline that rewrites workplace messages for tone — deployed on Vercel |
 
 ---
