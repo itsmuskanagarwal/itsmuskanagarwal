@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1B3A6B&center=true&vCenter=true&width=650&lines=AI+Engineer+%C2%B7+Frontend+Developer;Building+production+AI+agent+pipelines;Angular+%2B+Claude+%2B+OpenAI+%2B+Gemini;Turning+messy+legacy+code+into+clean+code" alt="Typing SVG" />
 
+[![Website](https://img.shields.io/badge/Website-1B3A6B?style=flat-square&logo=googlechrome&logoColor=white)](https://muskanagarwal.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmuskanagarwal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsmuskanagarwal)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@developerwhoismean)
